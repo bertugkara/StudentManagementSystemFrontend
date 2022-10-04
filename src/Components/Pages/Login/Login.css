@@ -1,0 +1,20 @@
+.login-div{
+    border: 2px;
+    border-radius: 10px;
+    background-color: burlywood;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+
+}
+
+
+.h1{
+    font-size: large;
+}

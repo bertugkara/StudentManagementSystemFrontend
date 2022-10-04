@@ -1,0 +1,14 @@
+
+export default function authHeader() {
+    const user = JSON.parse(localStorage.getItem('user'));
+    if (user && user.token) {
+      return  'Bearer ' + user.token ;
+    }
+  }
+
+  export function authInfo() {
+    const user = JSON.parse(localStorage.getItem('user'));
+    if (user) {
+      return user;
+    }
+  }

@@ -1,0 +1,29 @@
+.adminEditLesson{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 5px;
+    border-radius: 10px;
+}
+
+.assistantEditLesson{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 5px;
+    border-radius: 10px;
+}
+
+.professor-edit-lesson{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 5px;
+    border-radius: 10px;
+}

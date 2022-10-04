@@ -1,0 +1,10 @@
+.addExam-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Submit--Button{
+    background-color: azure;
+    border: 2px;
+    border-radius: 10px;
+}

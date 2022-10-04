@@ -1,0 +1,18 @@
+.register-div{
+    display: flex;
+align-items: center;
+justify-content: center;
+border: 5px;
+border-radius: 10px;
+    padding: 5px;
+
+}
+.register{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px;
+    border-radius: 10px;
+
+
+}

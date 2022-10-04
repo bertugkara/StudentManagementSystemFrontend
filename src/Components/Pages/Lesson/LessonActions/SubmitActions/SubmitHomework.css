@@ -1,0 +1,18 @@
+.submitted-homework-details-div{
+    margin-top: 50px;
+}
+.submit-homework{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    justify-content: center;
+    padding: 10px;
+}
+.description-submit-homework{
+
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+}
+

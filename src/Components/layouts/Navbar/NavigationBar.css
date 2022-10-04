@@ -1,0 +1,23 @@
+.btn-primary{
+    border: 2px !important;
+    border-radius: 5px !important;
+    color:black  !important;
+    padding-right: 2px !important;
+    padding-left: 2px !important;
+    background-color: wheat !important;
+}
+
+a[role="button"] {
+    margin: 0 3px;
+}
+
+.navbar{
+    background-color: lightslategrey !important;
+    padding: 12px;
+}
+.navbar-brand{
+    color: whitesmoke !important;
+}
+.nav-dropdown{
+    color: whitesmoke;
+}
